@@ -10,6 +10,7 @@ namespace gitlearning
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
