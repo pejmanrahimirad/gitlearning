@@ -12,6 +12,7 @@ namespace gitlearning
         {
             Console.WriteLine("hello word");
             Console.ReadKey();
+            Console.Write();
         }
     }
 }
