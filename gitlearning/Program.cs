@@ -10,9 +10,11 @@ namespace gitlearning
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("add barnch pejman");
+
             Console.WriteLine("hello word");
             Console.ReadKey();
-            Console.Write();
+            Console.Write("");
         }
     }
 }
